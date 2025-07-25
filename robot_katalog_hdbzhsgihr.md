@@ -1,2 +1,2 @@
-# robot\_katalog\_hdbzhsgihr
+# Каталог товаров robot.kz - часть 6
 

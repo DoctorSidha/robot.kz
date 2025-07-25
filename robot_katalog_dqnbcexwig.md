@@ -1,2 +1,2 @@
-# robot\_katalog\_dqnbcexwig
+# Каталог товаров robot.kz - часть 5
 
