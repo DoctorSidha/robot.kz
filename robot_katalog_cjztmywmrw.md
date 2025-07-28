@@ -1,6 +1,6 @@
 # Каталог товаров robot.kz - часть 3
 
-## Комплект колес Unitree Robotics B2/ B2-W
+## Название: Комплект колес Unitree Robotics B2/ B2-W
 
 ### Идентификатор:
 
@@ -46,7 +46,7 @@ unitree-robotics
 
 
 
-## Колесо Unitree Robotics B2/ B2-W
+## Название: Колесо Unitree Robotics B2/ B2-W
 
 ### Идентификатор:
 
@@ -88,7 +88,7 @@ unitree-robotics
 
 
 
-## Лидар Unitree RoboticsB2-W 32 Line
+## Название: Лидар Unitree RoboticsB2-W 32 Line
 
 ### Идентификатор:
 
@@ -134,7 +134,7 @@ unitree-robotics
 
 
 
-## Зарядная станция Unitree Robotics B2/B2-W
+## Название: Зарядная станция Unitree Robotics B2/B2-W
 
 ### Идентификатор:
 
@@ -180,7 +180,7 @@ unitree-robotics
 
 
 
-## Робот-уборщик Pudu Robotics MT-1
+## Название: Робот-уборщик Pudu Robotics MT-1
 
 ### Идентификатор:
 
@@ -254,7 +254,7 @@ VSLAM + Маркер + Лидар SLAM
 
 
 
-## Промышленный робот-доставщик Pudu Robotics T300
+## Название: Промышленный робот-доставщик Pudu Robotics T300
 
 ### Идентификатор:
 
@@ -336,7 +336,7 @@ VSLAM и лидар SLAM
 
 
 
-## Поломоечная машина Pudu Robotics SH1
+## Название: Поломоечная машина Pudu Robotics SH1
 
 ### Идентификатор:
 
@@ -426,7 +426,7 @@ VSLAM и лидар SLAM
 
 
 
-## Робот-доставщик Keenon Robotics Dinerbot-T9
+## Название: Робот-доставщик Keenon Robotics Dinerbot-T9
 
 ### Идентификатор:
 
@@ -508,7 +508,7 @@ keenon-robotics
 
 
 
-## Робот-доставщик Keenon Robotics Dinerbot-T10
+## Название: Робот-доставщик Keenon Robotics Dinerbot-T10
 
 ### Идентификатор:
 
@@ -586,7 +586,7 @@ keenon-robotics
 
 
 
-## Промышленный робот-доставщик Keenon Robotics S100
+## Название: Промышленный робот-доставщик Keenon Robotics S100
 
 ### Идентификатор:
 
@@ -668,7 +668,7 @@ keenon-robotics
 
 
 
-## Робот-уборщик Keenon Robotics C30
+## Название: Робот-уборщик Keenon Robotics C30
 
 ### Идентификатор:
 
@@ -738,7 +738,7 @@ keenon-robotics
 
 
 
-## Универсальный робот-гуманоид Unitree Robotics G1 Edu Standard
+## Название: Универсальный робот-гуманоид Unitree Robotics G1 Edu Standard
 
 ### Идентификатор:
 
@@ -848,7 +848,7 @@ Wi-Fi 6 / Bluetooth 5.2
 
 
 
-## Универсальный робот-гуманоид Unitree Robotics G1 Edu Smart
+## Название: Универсальный робот-гуманоид Unitree Robotics G1 Edu Smart
 
 ### Идентификатор:
 
@@ -958,7 +958,7 @@ Wi-Fi 6 / Bluetooth 5.2
 
 
 
-##  Универсальный робот-гуманоид Unitree Robotics G1 Edu Ultimate
+## Название:  Универсальный робот-гуманоид Unitree Robotics G1 Edu Ultimate
 
 ### Идентификатор:
 
@@ -1064,7 +1064,7 @@ Wi-Fi 6 / Bluetooth 5.2
 
 
 
-## Зарядная станция KettyBot Pudu charging pile 
+## Название: Зарядная станция KettyBot Pudu charging pile 
 
 ### Идентификатор:
 
@@ -1126,7 +1126,7 @@ pudu-robotics
 
 
 
-## Интерактивный робот-танцор  EnergizeLab Meteer с AI
+## Название: Интерактивный робот-танцор  EnergizeLab Meteer с AI
 
 ### Идентификатор:
 
@@ -1244,7 +1244,7 @@ USB Type-C, вход 8 В
 
 
 
-## Полугуманоидный робот Pudu Robotics FlashBot Arm
+## Название: Полугуманоидный робот Pudu Robotics FlashBot Arm
 
 ### Идентификатор:
 
@@ -1338,7 +1338,7 @@ VSLAM + LiDAR SLAM
 
 
 
-## Робот-гуманоид Pudu Robotics D9
+## Название: Робот-гуманоид Pudu Robotics D9
 
 ### Идентификатор:
 
@@ -1428,7 +1428,7 @@ D9
 
 
 
-## Умный робот-доставщик Pudu Robotics FlashBot Max
+## Название: Умный робот-доставщик Pudu Robotics FlashBot Max
 
 ### Идентификатор:
 
@@ -1526,7 +1526,7 @@ VSLAM+LiDAR SLAM
 
 
 
-## Робот-доставщик Keenon Robotics Dinerbot-T11
+## Название: Робот-доставщик Keenon Robotics Dinerbot-T11
 
 ### Идентификатор:
 
@@ -1620,7 +1620,7 @@ SLAM Fusion + стереокамеры
 
 
 
-## Робот-уборщик Keenon Robotics Kleenbot C40
+## Название: Робот-уборщик Keenon Robotics Kleenbot C40
 
 ### Идентификатор:
 
@@ -1714,7 +1714,7 @@ SLAM + мультимодальное 3D-восприятие
 
 
 
-## Робот-уборщик Keenon Robotics Kleenbot C20
+## Название: Робот-уборщик Keenon Robotics Kleenbot C20
 
 ### Идентификатор:
 
@@ -1792,7 +1792,7 @@ C20
 
 
 
-## Робот-конструктор Makeblock mBot2 Rover Robotics Kit
+## Название: Робот-конструктор Makeblock mBot2 Rover Robotics Kit
 
 ### Идентификатор:
 
@@ -1878,7 +1878,7 @@ CyberPi
 
 
 
-## Робот-конструктор Makeblock mBot2 (3 робота)
+## Название: Робот-конструктор Makeblock mBot2 (3 робота)
 
 ### Идентификатор:
 
@@ -1992,7 +1992,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 (6 роботов, Classroom Pack)
+## Название: Робот-конструктор Makeblock mBot2 (6 роботов, Classroom Pack)
 
 ### Идентификатор:
 
@@ -2106,7 +2106,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 (12 роботов, Classroom Pack)
+## Название: Робот-конструктор Makeblock mBot2 (12 роботов, Classroom Pack)
 
 ### Идентификатор:
 
@@ -2220,7 +2220,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Smart World Bundle (1 робот, Smart World)
+## Название: Робот-конструктор Makeblock mBot2 Smart World Bundle (1 робот, Smart World)
 
 ### Идентификатор:
 
@@ -2334,7 +2334,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Smart World Bundle (3 робота, Smart World)
+## Название: Робот-конструктор Makeblock mBot2 Smart World Bundle (3 робота, Smart World)
 
 ### Идентификатор:
 
@@ -2448,7 +2448,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Smart World Bundle (6 роботов, Smart World)
+## Название: Робот-конструктор Makeblock mBot2 Smart World Bundle (6 роботов, Smart World)
 
 ### Идентификатор:
 
@@ -2562,7 +2562,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Competition (1 робот + контроллер + арена)
+## Название: Робот-конструктор Makeblock mBot2 Competition (1 робот + контроллер + арена)
 
 ### Идентификатор:
 
@@ -2676,7 +2676,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Competition (3 робота + контроллеры + арена)
+## Название: Робот-конструктор Makeblock mBot2 Competition (3 робота + контроллеры + арена)
 
 ### Идентификатор:
 
@@ -2790,7 +2790,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Competition (6 роботов + контроллеры + арена)
+## Название: Робот-конструктор Makeblock mBot2 Competition (6 роботов + контроллеры + арена)
 
 ### Идентификатор:
 
@@ -2904,7 +2904,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-конструктор Makeblock mBot2 Coding (пакет обучения 1 робот)
+## Название: Робот-конструктор Makeblock mBot2 Coding (пакет обучения 1 робот)
 
 ### Идентификатор:
 
@@ -3018,7 +3018,7 @@ ESP32-WROVER-B
 
 
 
-## Робот-уборщик Pudu Robotics MT-1 Vac
+## Название: Робот-уборщик Pudu Robotics MT-1 Vac
 
 ### Идентификатор:
 
@@ -3096,7 +3096,7 @@ Pudu Robotics MT-1 VAC
 
 
 
-## Робот для уборки помещений Pudu Robotics CC1 PRO
+## Название: Робот для уборки помещений Pudu Robotics CC1 PRO
 
 ### Идентификатор:
 

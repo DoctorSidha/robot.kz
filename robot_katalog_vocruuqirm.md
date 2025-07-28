@@ -1,6 +1,6 @@
 # Каталог товаров robot.kz - часть 2
 
-## Аккумулятор Makeblock Rechargeable Li-polymer | mBot
+## Название: Аккумулятор Makeblock Rechargeable Li-polymer | mBot
 
 ### Идентификатор:
 
@@ -54,7 +54,7 @@ Rechargeable Li-polymer | mBot
 
 
 
-## Интерфейс Makeblock Megapi Shield for RJ25 V1 | mBot Ultimate/Mega
+## Название: Интерфейс Makeblock Megapi Shield for RJ25 V1 | mBot Ultimate/Mega
 
 ### Идентификатор:
 
@@ -112,7 +112,7 @@ RJ25 х 4 / Интерфейс х 1
 
 
 
-## Комплект Makeblock Talkative Pet Robot 3-in-1 | mBot
+## Название: Комплект Makeblock Talkative Pet Robot 3-in-1 | mBot
 
 ### Идентификатор:
 
@@ -166,7 +166,7 @@ Talkative Pet Robot 3-in-1
 
 
 
-## Аккумулятор+адаптер Makeblock 1800mAh | mBot Ranger/Ultimate/Mega
+## Название: Аккумулятор+адаптер Makeblock 1800mAh | mBot Ranger/Ultimate/Mega
 
 ### Идентификатор:
 
@@ -216,7 +216,7 @@ Li-polymer Battery Pack 1800mAh for Ranger/Ultimate/Mega
 
 
 
-## Комплект Makeblock CyberPi Innovation Add-on
+## Название: Комплект Makeblock CyberPi Innovation Add-on
 
 ### Идентификатор:
 
@@ -266,7 +266,7 @@ CyberPi Innovation Add-on Pack
 
 
 
-## Комплект Makeblock Electronic Add-On | mBot/Ranger/Ultimate/Mega
+## Название: Комплект Makeblock Electronic Add-On | mBot/Ranger/Ultimate/Mega
 
 ### Идентификатор:
 
@@ -316,7 +316,7 @@ Electronic Add-on Pack for mBot/Ranger/Ultimate/Mega
 
 
 
-## Комплект Makeblock Variety Gizmos Robot 8-in-1 | mBot/Ranger
+## Название: Комплект Makeblock Variety Gizmos Robot 8-in-1 | mBot/Ranger
 
 ### Идентификатор:
 
@@ -370,7 +370,7 @@ Variety Gizmos Robot 8-in-1 Add-on Pack for mBot & mBot Ranger
 
 
 
-## Комплект Makeblock Six-legged Robot 3-in-1 | mBot/Ranger
+## Название: Комплект Makeblock Six-legged Robot 3-in-1 | mBot/Ranger
 
 ### Идентификатор:
 
@@ -424,7 +424,7 @@ Six-legged Robot 3-in-1 Add-on Pack for mBot
 
 
 
-## Комплект Makeblock Interactive Light & Sound Robot 3-in-1 | mBot
+## Название: Комплект Makeblock Interactive Light & Sound Robot 3-in-1 | mBot
 
 ### Идентификатор:
 
@@ -478,7 +478,7 @@ Interactive Light & Sound Robot 3-in-1 Add-on Pack for mBot
 
 
 
-## Комплект Makeblock Smart World 3-in-1 | mBot Neo/mBot2
+## Название: Комплект Makeblock Smart World 3-in-1 | mBot Neo/mBot2
 
 ### Идентификатор:
 
@@ -524,7 +524,7 @@ Smart World 3-in-1 Add-on Pack for mBot Neo
 
 
 
-## Контроллер Makeblock CyberPi Go Kit
+## Название: Контроллер Makeblock CyberPi Go Kit
 
 ### Идентификатор:
 
@@ -586,7 +586,7 @@ CyberPi Go Kit
 
 
 
-## Набор контроллеров Makeblock CyberPi (4 in 1)
+## Название: Набор контроллеров Makeblock CyberPi (4 in 1)
 
 ### Идентификатор:
 
@@ -644,7 +644,7 @@ CyberPi (4 in 1)
 
 
 
-## Электронный набор изобретателя Makeblock
+## Название: Электронный набор изобретателя Makeblock
 
 ### Идентификатор:
 
@@ -690,7 +690,7 @@ Makeblock
 
 
 
-## Набор приводных ремней Makeblock
+## Название: Набор приводных ремней Makeblock
 
 ### Идентификатор:
 
@@ -744,7 +744,7 @@ makeblock
 
 
 
-## Набор креплений Makeblock
+## Название: Набор креплений Makeblock
 
 ### Идентификатор:
 
@@ -790,7 +790,7 @@ makeblock
 
 
 
-## Набор для построения слайд-механизмов Makeblock
+## Название: Набор для построения слайд-механизмов Makeblock
 
 ### Идентификатор:
 
@@ -840,7 +840,7 @@ makeblock
 
 
 
-## Мотор 37 мм + шкив Makeblock
+## Название: Мотор 37 мм + шкив Makeblock
 
 ### Идентификатор:
 
@@ -894,7 +894,7 @@ makeblock
 
 
 
-## Мотор 25 мм + шкив Makeblock
+## Название: Мотор 25 мм + шкив Makeblock
 
 ### Идентификатор:
 
@@ -940,7 +940,7 @@ makeblock
 
 
 
-## Комплектующий набор Makeblock mBot Add-on
+## Название: Комплектующий набор Makeblock mBot Add-on
 
 ### Идентификатор:
 
@@ -990,7 +990,7 @@ mBot Add-on
 
 
 
-## Балки Makeblock 0824 средние
+## Название: Балки Makeblock 0824 средние
 
 ### Идентификатор:
 
@@ -1036,7 +1036,7 @@ makeblock
 
 
 
-## Балки Makeblock 0824 короткие
+## Название: Балки Makeblock 0824 короткие
 
 ### Идентификатор:
 
@@ -1082,7 +1082,7 @@ makeblock
 
 
 
-## Плата управления Makeblock mCore V1 для mBot
+## Название: Плата управления Makeblock mCore V1 для mBot
 
 ### Идентификатор:
 
@@ -1152,7 +1152,7 @@ USB-B / RJ25 х 4
 
 
 
-## Аккумулятор Boston Dynamics Spot
+## Название: Аккумулятор Boston Dynamics Spot
 
 ### Идентификатор:
 
@@ -1218,7 +1218,7 @@ Spot
 
 
 
-## Планшетный пульт Boston Dynamics Spot Tablet
+## Название: Планшетный пульт Boston Dynamics Spot Tablet
 
 ### Идентификатор:
 
@@ -1288,7 +1288,7 @@ Spot Tablet
 
 
 
-## Панели Boston Dynamics Spot Front/Rear
+## Название: Панели Boston Dynamics Spot Front/Rear
 
 ### Идентификатор:
 
@@ -1346,7 +1346,7 @@ Spot Front/Rear
 
 
 
-## Панели Boston Dynamics Spot Leg
+## Название: Панели Boston Dynamics Spot Leg
 
 ### Идентификатор:
 
@@ -1400,7 +1400,7 @@ Spot Leg
 
 
 
-## Зарядное устройство Boston Dynamics Spot
+## Название: Зарядное устройство Boston Dynamics Spot
 
 ### Идентификатор:
 
@@ -1470,7 +1470,7 @@ Spot
 
 
 
-## Al-компьютер Boston Dynamics Spot CORE AI EDGE GPU
+## Название: Al-компьютер Boston Dynamics Spot CORE AI EDGE GPU
 
 ### Идентификатор:
 
@@ -1548,7 +1548,7 @@ Intel Xeon E3-1515M V5 / ОЗУ 32 ГБ
 
 
 
-## Компьютер Boston Dynamics Spot CORE EDGE CPU
+## Название: Компьютер Boston Dynamics Spot CORE EDGE CPU
 
 ### Идентификатор:
 
@@ -1626,7 +1626,7 @@ i5 Intel® 8-го поколения (Whiskey lake-U) Core ™ CCG / DDR4 2666 �
 
 
 
-## Лидар Boston Dynamics Spot EAP Lidar
+## Название: Лидар Boston Dynamics Spot EAP Lidar
 
 ### Идентификатор:
 
@@ -1696,7 +1696,7 @@ Spot EAP Lidar
 
 
 
-## Инфракрасная+Zoom-камера Boston Dynamics Spot CAM+IR
+## Название: Инфракрасная+Zoom-камера Boston Dynamics Spot CAM+IR
 
 ### Идентификатор:
 
@@ -1774,7 +1774,7 @@ Spot CAM+IR
 
 
 
-## Zoom-камера Boston Dynamics Spot CAM+
+## Название: Zoom-камера Boston Dynamics Spot CAM+
 
 ### Идентификатор:
 
@@ -1852,7 +1852,7 @@ Spot CAM+
 
 
 
-## План обслуживания Boston Dynamics Spot Care
+## Название: План обслуживания Boston Dynamics Spot Care
 
 ### Идентификатор:
 
@@ -1902,7 +1902,7 @@ Spot Care
 
 
 
-## Камера Boston Dynamics Spot CAM Awareness
+## Название: Камера Boston Dynamics Spot CAM Awareness
 
 ### Идентификатор:
 
@@ -1980,7 +1980,7 @@ Spot CAM Awareness
 
 
 
-## Интерфейс Boston Dynamics Spot GXP Ports
+## Название: Интерфейс Boston Dynamics Spot GXP Ports
 
 ### Идентификатор:
 
@@ -2062,7 +2062,7 @@ RJ45 / HD15
 
 
 
-## Манипулятор Boston Dynamics Spot Arm
+## Название: Манипулятор Boston Dynamics Spot Arm
 
 ### Идентификатор:
 
@@ -2140,7 +2140,7 @@ Gigabit Ethernet
 
 
 
-## Зарядная док-станция KEYi Loona Smart
+## Название: Зарядная док-станция KEYi Loona Smart
 
 ### Идентификатор:
 
@@ -2198,7 +2198,7 @@ USB-C
 
 
 
-## RGB-лента Makeblock xLight S1
+## Название: RGB-лента Makeblock xLight S1
 
 ### Идентификатор:
 
@@ -2256,7 +2256,7 @@ xLight S1
 
 
 
-## Ночник+доска сообщений Makeblock xLight N1
+## Название: Ночник+доска сообщений Makeblock xLight N1
 
 ### Идентификатор:
 
@@ -2314,7 +2314,7 @@ xLight N1
 
 
 
-## Светодиодная лента+гирлянда+светильник Makeblock xLight U1
+## Название: Светодиодная лента+гирлянда+светильник Makeblock xLight U1
 
 ### Идентификатор:
 
@@ -2372,7 +2372,7 @@ xLight U1
 
 
 
-## Гелевые шарики DJI RoboMaster S1 Gel Beads
+## Название: Гелевые шарики DJI RoboMaster S1 Gel Beads
 
 ### Идентификатор:
 
@@ -2422,7 +2422,7 @@ S1 Gel Beads
 
 
 
-## Пульт управления DJI RoboMaster S1 Gamepad
+## Название: Пульт управления DJI RoboMaster S1 Gamepad
 
 ### Идентификатор:
 
@@ -2496,7 +2496,7 @@ USB
 
 
 
-## Маркеры DJI RoboMaster S1 Vision Markers
+## Название: Маркеры DJI RoboMaster S1 Vision Markers
 
 ### Идентификатор:
 
@@ -2542,7 +2542,7 @@ S1 Vision Markers
 
 
 
-## Набор аксессуаров DJI RoboMaster S1 Play More Kit
+## Название: Набор аксессуаров DJI RoboMaster S1 Play More Kit
 
 ### Идентификатор:
 
@@ -2604,7 +2604,7 @@ DJI Robomaster S1
 
 
 
-## Комплект Makeblock CyberPi Innovation
+## Название: Комплект Makeblock CyberPi Innovation
 
 ### Идентификатор:
 
@@ -2658,7 +2658,7 @@ CyberPi Innovation
 
 
 
-## Комплект Makeblock Perception gizmos
+## Название: Комплект Makeblock Perception gizmos
 
 ### Идентификатор:
 
@@ -2708,7 +2708,7 @@ Perception gizmos
 
 
 
-## Bluetooth-контроллер Makeblock Bluetooth Controller V1
+## Название: Bluetooth-контроллер Makeblock Bluetooth Controller V1
 
 ### Идентификатор:
 
@@ -2782,7 +2782,7 @@ AA
 
 
 
-## Комплект Makeblock Smart Camera
+## Название: Комплект Makeblock Smart Camera
 
 ### Идентификатор:
 
@@ -2840,7 +2840,7 @@ Smart Camera
 
 
 
-## USB-адаптер Makeblock Bluetooth Dongle_EN
+## Название: USB-адаптер Makeblock Bluetooth Dongle_EN
 
 ### Идентификатор:
 
@@ -2914,7 +2914,7 @@ AA
 
 
 
-## Одноплатный компьютер Makeblock HaloCode_EN V2
+## Название: Одноплатный компьютер Makeblock HaloCode_EN V2
 
 ### Идентификатор:
 
@@ -2984,7 +2984,7 @@ Core Xtensa LX6
 
 
 
-## Комплект Makeblock AI & IoT Creator
+## Название: Комплект Makeblock AI & IoT Creator
 
 ### Идентификатор:
 
@@ -3038,7 +3038,7 @@ AI & IoT Creator
 
 
 
-## Комплект Makeblock AI & IoT Scientist
+## Название: Комплект Makeblock AI & IoT Scientist
 
 ### Идентификатор:
 
@@ -3092,7 +3092,7 @@ AI & IoT Scientist
 
 
 
-## Комплект Makeblock AI & IoT Education Toolkit
+## Название: Комплект Makeblock AI & IoT Education Toolkit
 
 ### Идентификатор:
 
@@ -3146,7 +3146,7 @@ AI & IoT Education Toolkit
 
 
 
-## Набор карт Makeblock mTiny Town & Grassland
+## Название: Набор карт Makeblock mTiny Town & Grassland
 
 ### Идентификатор:
 
@@ -3200,7 +3200,7 @@ mTiny Town & Grassland
 
 
 
-## Набор карт Makeblock mTiny My World & Treasure
+## Название: Набор карт Makeblock mTiny My World & Treasure
 
 ### Идентификатор:
 
@@ -3254,7 +3254,7 @@ mTiny My World & Treasure
 
 
 
-## Комплект Makeblock Easy-Play Electronic Programming Maker's
+## Название: Комплект Makeblock Easy-Play Electronic Programming Maker's
 
 ### Идентификатор:
 
@@ -3304,7 +3304,7 @@ Easy-Play Electronic Programming Maker's Kit For Kids
 
 
 
-## Контроллер Makeblock CyberPi Go Kit
+## Название: Контроллер Makeblock CyberPi Go Kit
 
 ### Идентификатор:
 
@@ -3366,7 +3366,7 @@ CyberPi Go Kit
 
 
 
-## Набор контроллеров Makeblock CyberPi (4 in 1)
+## Название: Набор контроллеров Makeblock CyberPi (4 in 1)
 
 ### Идентификатор:
 
@@ -3424,7 +3424,7 @@ CyberPi (4 in 1)
 
 
 
-## Автоматический лоток для кошек UBPet C20
+## Название: Автоматический лоток для кошек UBPet C20
 
 ### Идентификатор:
 
@@ -3498,7 +3498,7 @@ ubpet
 
 
 
-## Умная кормушка-охладитель UBPet
+## Название: Умная кормушка-охладитель UBPet
 
 ### Идентификатор:
 
@@ -3552,7 +3552,7 @@ ubpet
 
 
 
-## Автоматический лоток для кошек UBPet C10 Pro
+## Название: Автоматический лоток для кошек UBPet C10 Pro
 
 ### Идентификатор:
 
@@ -3622,7 +3622,7 @@ ubpet
 
 
 
-## Робот-пылесос UBPet V10
+## Название: Робот-пылесос UBPet V10
 
 ### Идентификатор:
 
@@ -3664,7 +3664,7 @@ ubpet
 
 
 
-## Комплект для сбора умных роботов UGOT Robotic Kit
+## Название: Комплект для сбора умных роботов UGOT Robotic Kit
 
 ### Идентификатор:
 
@@ -3714,7 +3714,7 @@ ugot
 
 
 
-## Робот-доставщик Pudu Robotics Bellabot Pro
+## Название: Робот-доставщик Pudu Robotics Bellabot Pro
 
 ### Идентификатор:
 
@@ -3792,7 +3792,7 @@ VSLAM и лидар SLAM
 
 
 
-## Интеллектуальный робот-доставщик Pudu Robotics KettyBot Pro
+## Название: Интеллектуальный робот-доставщик Pudu Robotics KettyBot Pro
 
 ### Идентификатор:
 
@@ -3906,7 +3906,7 @@ Wi-Fi 2.4G: 2412–2472 МГц, 2422–2462 МГц / Wi-Fi 5.2–5.6G: 5180–53
 
 
 
-## Универсальный робот-гуманоид Unitree Robotics G1  Basic
+## Название: Универсальный робот-гуманоид Unitree Robotics G1  Basic
 
 ### Идентификатор:
 
@@ -4024,7 +4024,7 @@ Wi-Fi 6 / Bluetooth 5.2
 
 
 
-## Робопес Unitree Robotics Go2-W
+## Название: Робопес Unitree Robotics Go2-W
 
 ### Идентификатор:
 
@@ -4122,7 +4122,7 @@ WIFI6 / 4G / Bluetooth
 
 
 
-## Робопес Unitree Robotics B2
+## Название: Робопес Unitree Robotics B2
 
 ### Идентификатор:
 
@@ -4188,7 +4188,7 @@ unitree-robotics
 
 
 
-## Робопес Unitree Robotics B2-W
+## Название: Робопес Unitree Robotics B2-W
 
 ### Идентификатор:
 
@@ -4282,7 +4282,7 @@ unitree-robotics
 
 
 
-## Робопес Unitree Robotics Go2 Edu + XT16
+## Название: Робопес Unitree Robotics Go2 Edu + XT16
 
 ### Идентификатор:
 
@@ -4380,7 +4380,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Edu Plus
+## Название: Робопес Unitree Robotics Go2 Edu Plus
 
 ### Идентификатор:
 
@@ -4482,7 +4482,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Edu Plus D1 ARM
+## Название: Робопес Unitree Robotics Go2 Edu Plus D1 ARM
 
 ### Идентификатор:
 
@@ -4584,7 +4584,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Edu Plus Mid-360
+## Название: Робопес Unitree Robotics Go2 Edu Plus Mid-360
 
 ### Идентификатор:
 
@@ -4686,7 +4686,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Edu Plus Mid-360 + D1 ARM
+## Название: Робопес Unitree Robotics Go2 Edu Plus Mid-360 + D1 ARM
 
 ### Идентификатор:
 
@@ -4788,7 +4788,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Edu XT16 + D1 ARM
+## Название: Робопес Unitree Robotics Go2 Edu XT16 + D1 ARM
 
 ### Идентификатор:
 
@@ -4886,7 +4886,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Пульт Unitree Robotics G1
+## Название: Пульт Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -4952,7 +4952,7 @@ USB / Bluetooth
 
 
 
-## Аккумулятор Unitree Robotics G1
+## Название: Аккумулятор Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -5006,7 +5006,7 @@ unitree-robotics
 
 
 
-## Зарядное устройство Unitree Robotics G1
+## Название: Зарядное устройство Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -5064,7 +5064,7 @@ unitree-robotics
 
 
 
-## Док-станция Unitree Robotics G1
+## Название: Док-станция Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -5122,7 +5122,7 @@ NVIDIA Jetson Orin NX (вычислительная мощность 100 Т)
 
 
 
-## Кронштейн Unitree Robotics G1
+## Название: Кронштейн Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -5168,7 +5168,7 @@ unitree-robotics
 
 
 
-## Лидар Unitree Robotics G1 MID360
+## Название: Лидар Unitree Robotics G1 MID360
 
 ### Идентификатор:
 
@@ -5222,7 +5222,7 @@ unitree-robotics
 
 
 
-## Камера Unitree Robotics Deepth G1
+## Название: Камера Unitree Robotics Deepth G1
 
 ### Идентификатор:
 
@@ -5276,7 +5276,7 @@ HD (1280×720)
 
 
 
-## Запястье Unitree Robotics G1 2 DOF
+## Название: Запястье Unitree Robotics G1 2 DOF
 
 ### Идентификатор:
 
@@ -5322,7 +5322,7 @@ unitree-robotics
 
 
 
-## Трехпалая ловкая рука Unitree Robotics Dex3-1 Force Control
+## Название: Трехпалая ловкая рука Unitree Robotics Dex3-1 Force Control
 
 ### Идентификатор:
 
@@ -5368,7 +5368,7 @@ unitree-robotics
 
 
 
-## Трехпалая тактильная рука Unitree Robotics Dex3-1 Force Сontrolled
+## Название: Трехпалая тактильная рука Unitree Robotics Dex3-1 Force Сontrolled
 
 ### Идентификатор:
 
@@ -5418,7 +5418,7 @@ unitree-robotics
 
 
 
-## Манипулятор рука Unitree Robotics G1
+## Название: Манипулятор рука Unitree Robotics G1
 
 ### Идентификатор:
 
@@ -5464,7 +5464,7 @@ unitree-robotics
 
 
 
-## Сторонний четырехпальцевый мотор LAF10-024D
+## Название: Сторонний четырехпальцевый мотор LAF10-024D
 
 ### Идентификатор:
 
@@ -5510,7 +5510,7 @@ unitree-robotics
 
 
 
-## Мотор для большого пальца LASF10-024D
+## Название: Мотор для большого пальца LASF10-024D
 
 ### Идентификатор:
 
@@ -5556,7 +5556,7 @@ unitree-robotics
 
 
 
-## Консоль Unitree Robotics Go2
+## Название: Консоль Unitree Robotics Go2
 
 ### Идентификатор:
 
@@ -5606,7 +5606,7 @@ Protective bracket H1
 
 
 
-## Подушка для лап Unitree Robotics Go2
+## Название: Подушка для лап Unitree Robotics Go2
 
 ### Идентификатор:
 
@@ -5648,7 +5648,7 @@ unitree-robotics
 
 
 
-## Пульт с экраном + двойная камера (Для Ent U1)
+## Название: Пульт с экраном + двойная камера (Для Ent U1)
 
 ### Идентификатор:
 
@@ -5702,7 +5702,7 @@ unitree-robotics
 
 
 
-## Пульт с экраном двойная камера + двойная оптическая головка (Для Ent U5)
+## Название: Пульт с экраном двойная камера + двойная оптическая головка (Для Ent U5)
 
 ### Идентификатор:
 
@@ -5752,7 +5752,7 @@ unitree-robotics
 
 
 
-## Мотор Unitree Robotics GO-M8010-6
+## Название: Мотор Unitree Robotics GO-M8010-6
 
 ### Идентификатор:
 
@@ -5802,7 +5802,7 @@ unitree-robotics
 
 
 
-## Рука Unitree Robotics H1
+## Название: Рука Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5848,7 +5848,7 @@ unitree-robotics
 
 
 
-## Нога Unitree Robotics H1
+## Название: Нога Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5894,7 +5894,7 @@ unitree-robotics
 
 
 
-## Аккумулятор Unitree Robotics B2
+## Название: Аккумулятор Unitree Robotics B2
 
 ### Идентификатор:
 
@@ -5952,7 +5952,7 @@ unitree-robotics
 
 
 
-## Пульт Unitree Robotics B2/B2-W
+## Название: Пульт Unitree Robotics B2/B2-W
 
 ### Идентификатор:
 
@@ -6018,7 +6018,7 @@ unitree-robotics
 
 
 
-## Зарядное устройство Unitree Robotics B2
+## Название: Зарядное устройство Unitree Robotics B2
 
 ### Идентификатор:
 
@@ -6064,7 +6064,7 @@ unitree-robotics
 
 
 
-## Подушка для лап Unitree Robotics B2
+## Название: Подушка для лап Unitree Robotics B2
 
 ### Идентификатор:
 
@@ -6110,7 +6110,7 @@ unitree-robotics
 
 
 
-## Лапа Unitree Robotics B2
+## Название: Лапа Unitree Robotics B2
 
 ### Идентификатор:
 
@@ -6156,7 +6156,7 @@ unitree-robotics
 
 
 
-## Комплект колес Unitree Robotics B2/ B2-W
+## Название: Комплект колес Unitree Robotics B2/ B2-W
 
 ### Идентификатор:
 

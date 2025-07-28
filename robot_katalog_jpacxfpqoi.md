@@ -1,6 +1,6 @@
 # Каталог товаров robot.kz - часть 1
 
-## 3D принтер Creality K1
+## Название: 3D принтер Creality K1
 
 ### Идентификатор:
 
@@ -30,7 +30,7 @@ creality
 
 
 
-## 3D принтер Creality Ender-3 V2
+## Название: 3D принтер Creality Ender-3 V2
 
 ### Идентификатор:
 
@@ -100,7 +100,7 @@ USB / SD
 
 
 
-## 3D принтер Creality Ender 5 S1
+## Название: 3D принтер Creality Ender 5 S1
 
 ### Идентификатор:
 
@@ -170,7 +170,7 @@ USB / SD
 
 
 
-## 3D принтер Creality Ender 3 S1 Pro
+## Название: 3D принтер Creality Ender 3 S1 Pro
 
 ### Идентификатор:
 
@@ -232,7 +232,7 @@ USB / SD
 
 
 
-## 3D принтер Creality Ender 3 S1
+## Название: 3D принтер Creality Ender 3 S1
 
 ### Идентификатор:
 
@@ -294,7 +294,7 @@ Ender 3 S1
 
 
 
-## Универсальный робот-гуманоид Unitree Robotics H1
+## Название: Универсальный робот-гуманоид Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -364,7 +364,7 @@ SLAM
 
 
 
-## Робопес Unitree Robotics Go2 Ent
+## Название: Робопес Unitree Robotics Go2 Ent
 
 ### Идентификатор:
 
@@ -470,7 +470,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics B-W
+## Название: Робопес Unitree Robotics B-W
 
 ### Идентификатор:
 
@@ -568,7 +568,7 @@ Intel i5-1135G7
 
 
 
-## Робопес Unitree Robotics Go2 Edu
+## Название: Робопес Unitree Robotics Go2 Edu
 
 ### Идентификатор:
 
@@ -670,7 +670,7 @@ WiFI6 with Dual-band / Bluetooth 5.2/4.2/2.1 / Модуль 4G module (eSIM)
 
 
 
-## Робопес Unitree Robotics Go2 Pro
+## Название: Робопес Unitree Robotics Go2 Pro
 
 ### Идентификатор:
 
@@ -772,7 +772,7 @@ HD
 
 
 
-## Робопес Unitree Robotics Go2 Air
+## Название: Робопес Unitree Robotics Go2 Air
 
 ### Идентификатор:
 
@@ -870,7 +870,7 @@ HD
 
 
 
-## Робопес Unitree Robotics B1
+## Название: Робопес Unitree Robotics B1
 
 ### Идентификатор:
 
@@ -964,7 +964,7 @@ Intel i5-1135G7
 
 
 
-## Робопес Unitree Robotics Go1
+## Название: Робопес Unitree Robotics Go1
 
 ### Идентификатор:
 
@@ -1038,7 +1038,7 @@ Nano 2GB + Nano 2GB + Nano 4GB
 
 
 
-## Робопес Boston Dynamics Spot Academic
+## Название: Робопес Boston Dynamics Spot Academic
 
 ### Идентификатор:
 
@@ -1140,7 +1140,7 @@ WiFi 2.4Ghz b/g/n / Gigabit Ethernet / Порт DB25 х 2 для подключ�
 
 
 
-## Робопес Boston Dynamics Spot Enterprise
+## Название: Робопес Boston Dynamics Spot Enterprise
 
 ### Идентификатор:
 
@@ -1242,7 +1242,7 @@ WiFi 2.4/5Ghz / Gigabit Ethernet / Порт DB25 х 2 для подключен�
 
 
 
-## Робопес Boston Dynamics Spot Explorer
+## Название: Робопес Boston Dynamics Spot Explorer
 
 ### Идентификатор:
 
@@ -1344,7 +1344,7 @@ WiFi 2.4Ghz b/g/n / Gigabit Ethernet / Порт DB25 х 2 для подключ�
 
 
 
-## Робопес Unitree Robotics Aliengo
+## Название: Робопес Unitree Robotics Aliengo
 
 ### Идентификатор:
 
@@ -1410,7 +1410,7 @@ HDMI × 2 / Ethernet порт × 2 / USB 3.0 × 2 / USB 2.0 × 1 / RS485 пор�
 
 
 
-## Робопес Unitree Robotics A1
+## Название: Робопес Unitree Robotics A1
 
 ### Идентификатор:
 
@@ -1484,7 +1484,7 @@ A1
 
 
 
-## Робот-питомец KEYi Loona Smart + Charging Dock
+## Название: Робот-питомец KEYi Loona Smart + Charging Dock
 
 ### Идентификатор:
 
@@ -1558,7 +1558,7 @@ RGB 720P
 
 
 
-## Квадрокоптер Litebee Ghost II STEM Advanced Programmable
+## Название: Квадрокоптер Litebee Ghost II STEM Advanced Programmable
 
 ### Идентификатор:
 
@@ -1644,7 +1644,7 @@ USB-C / WiFi
 
 
 
-## Набор дронов Litebee Wing FM-10 STEM Programmable Drone Formation
+## Название: Набор дронов Litebee Wing FM-10 STEM Programmable Drone Formation
 
 ### Идентификатор:
 
@@ -1734,7 +1734,7 @@ HD
 
 
 
-## Набор дронов Litebee Wing FM-4 STEM Programmable Drone Formation
+## Название: Набор дронов Litebee Wing FM-4 STEM Programmable Drone Formation
 
 ### Идентификатор:
 
@@ -1824,7 +1824,7 @@ HD
 
 
 
-## Квадрокоптер Litebee Wing STEM
+## Название: Квадрокоптер Litebee Wing STEM
 
 ### Идентификатор:
 
@@ -1922,7 +1922,7 @@ HD
 
 
 
-## Квадрокоптер Litebee Sky DIY Programming
+## Название: Квадрокоптер Litebee Sky DIY Programming
 
 ### Идентификатор:
 
@@ -2004,7 +2004,7 @@ USB-C
 
 
 
-## Квадрокоптер Litebee Brix III STEM
+## Название: Квадрокоптер Litebee Brix III STEM
 
 ### Идентификатор:
 
@@ -2094,7 +2094,7 @@ USB-C
 
 
 
-## Робот-питомец KEYi Loona Smart
+## Название: Робот-питомец KEYi Loona Smart
 
 ### Идентификатор:
 
@@ -2168,7 +2168,7 @@ RGB 720P
 
 
 
-## Робот-конструктор Makeblock Starter Robot Kit (Bluetooth)
+## Название: Робот-конструктор Makeblock Starter Robot Kit (Bluetooth)
 
 ### Идентификатор:
 
@@ -2222,7 +2222,7 @@ Bluetooth
 
 
 
-## Робот Makeblock Codey Rocky Education Version
+## Название: Робот Makeblock Codey Rocky Education Version
 
 ### Идентификатор:
 
@@ -2296,7 +2296,7 @@ Bluetooth / Wi-Fi  / USB
 
 
 
-## Набор Makeblock Nextmaker STEM Coding & Science (Box 2-12) | Monthly Subs
+## Название: Набор Makeblock Nextmaker STEM Coding & Science (Box 2-12) | Monthly Subs
 
 ### Идентификатор:
 
@@ -2354,7 +2354,7 @@ Nextmaker STEM Coding & Science (Box 2-12) | Monthly Subscription
 
 
 
-## Набор Makeblock Nextmaker STEM Coding & Science (Box 1-12) | Monthly Subs
+## Название: Набор Makeblock Nextmaker STEM Coding & Science (Box 1-12) | Monthly Subs
 
 ### Идентификатор:
 
@@ -2412,7 +2412,7 @@ Nextmaker STEM Coding & Science (Box 1-12) | Monthly Subscription
 
 
 
-## Набор роботов Makeblock Codey Rocky for Schools/Groups (6+xLight U1)
+## Название: Набор роботов Makeblock Codey Rocky for Schools/Groups (6+xLight U1)
 
 ### Идентификатор:
 
@@ -2466,7 +2466,7 @@ Codey Rocky Easy-Learning Robotics Classroom Packs for Schools / Groups
 
 
 
-## Робот-конструктор Makeblock mBot Neo (WiFi + Smart World Pack)
+## Название: Робот-конструктор Makeblock mBot Neo (WiFi + Smart World Pack)
 
 ### Идентификатор:
 
@@ -2520,7 +2520,7 @@ mBot Neo Remote Control WiFi Programmable Robotics Kit
 
 
 
-## Робот-конструктор Makeblock mBot Ultimate 10-in-1 For Students
+## Название: Робот-конструктор Makeblock mBot Ultimate 10-in-1 For Students
 
 ### Идентификатор:
 
@@ -2574,7 +2574,7 @@ mBot Ultimate 10-in-1 For Students
 
 
 
-## Робот-конструктор Makeblock mBot Mega
+## Название: Робот-конструктор Makeblock mBot Mega
 
 ### Идентификатор:
 
@@ -2632,7 +2632,7 @@ mBot Mega Advanced Mechanical Programmable Coding Robotic Kit
 
 
 
-## Робот-конструктор Makeblock mBot2
+## Название: Робот-конструктор Makeblock mBot2
 
 ### Идентификатор:
 
@@ -2722,7 +2722,7 @@ ESP32-WROVER-B
 
 
 
-## Робототехнический набор Makeblock Codey Rocky
+## Название: Робототехнический набор Makeblock Codey Rocky
 
 ### Идентификатор:
 
@@ -2808,7 +2808,7 @@ Bluetooth / Wi-Fi  / USB
 
 
 
-## Робот Makeblock mTiny Discover Kit
+## Название: Робот Makeblock mTiny Discover Kit
 
 ### Идентификатор:
 
@@ -2906,7 +2906,7 @@ micro USB
 
 
 
-## Интеллектуальный робот DJI Robomaster S1
+## Название: Интеллектуальный робот DJI Robomaster S1
 
 ### Идентификатор:
 
@@ -3044,7 +3044,7 @@ Robomaster S1
 
 
 
-## Робот-компаньон Makeblock Corbit
+## Название: Робот-компаньон Makeblock Corbit
 
 ### Идентификатор:
 
@@ -3098,7 +3098,7 @@ Corbit
 
 
 
-## Робот Makeblock mTiny Smart Interactive
+## Название: Робот Makeblock mTiny Smart Interactive
 
 ### Идентификатор:
 
@@ -3180,7 +3180,7 @@ mTiny Smart Interactive
 
 
 
-## Робот-конструктор Makeblock Neuron Creative Kit
+## Название: Робот-конструктор Makeblock Neuron Creative Kit
 
 ### Идентификатор:
 
@@ -3226,7 +3226,7 @@ Neuron Creative Kit
 
 
 
-## Робот-конструктор Makeblock Neuron Inventor Kit
+## Название: Робот-конструктор Makeblock Neuron Inventor Kit
 
 ### Идентификатор:
 
@@ -3300,7 +3300,7 @@ Bluetooth / Wi-Fi
 
 
 
-## Робот-конструктор Makeblock Ultimate 2.0 (10 в 1)
+## Название: Робот-конструктор Makeblock Ultimate 2.0 (10 в 1)
 
 ### Идентификатор:
 
@@ -3374,7 +3374,7 @@ ATMEGA2560-16AU
 
 
 
-## Робот-конструктор Makeblock mBot Ranger (Bluetooth)
+## Название: Робот-конструктор Makeblock mBot Ranger (Bluetooth)
 
 ### Идентификатор:
 
@@ -3444,7 +3444,7 @@ Bluetooth / USB
 
 
 
-## Робот-конструктор Makeblock mBot V1.1 (Bluetooth)
+## Название: Робот-конструктор Makeblock mBot V1.1 (Bluetooth)
 
 ### Идентификатор:
 
@@ -3518,7 +3518,7 @@ Bluetooth
 
 
 
-## Робот-конструктор DJI RoboMaster EP Core
+## Название: Робот-конструктор DJI RoboMaster EP Core
 
 ### Идентификатор:
 
@@ -3608,7 +3608,7 @@ micro-SD / USB / Wi-Fi
 
 
 
-## Робот-официант Keenon Robotics Dinerbot T9 Pro
+## Название: Робот-официант Keenon Robotics Dinerbot T9 Pro
 
 ### Идентификатор:
 
@@ -3686,7 +3686,7 @@ Dinerbot T9 Pro
 
 
 
-## Робот-официант Keenon Robotics Dinerbot T5 Pro
+## Название: Робот-официант Keenon Robotics Dinerbot T5 Pro
 
 ### Идентификатор:
 
@@ -3768,7 +3768,7 @@ Dinerbot T5 Pro
 
 
 
-## Робот-доставщик Keenon Robotics Dinerbot T3
+## Название: Робот-доставщик Keenon Robotics Dinerbot T3
 
 ### Идентификатор:
 
@@ -3834,7 +3834,7 @@ Dinerbot T3
 
 
 
-## Робот-доставщик Pudu Robotics SwiftBot
+## Название: Робот-доставщик Pudu Robotics SwiftBot
 
 ### Идентификатор:
 
@@ -3924,7 +3924,7 @@ VSLAM
 
 
 
-## Робот-официант Pudu Robotics PuduBot 2
+## Название: Робот-официант Pudu Robotics PuduBot 2
 
 ### Идентификатор:
 
@@ -3998,7 +3998,7 @@ VSLAM
 
 
 
-## Робот для уборки помещений Pudu Robotics CC1
+## Название: Робот для уборки помещений Pudu Robotics CC1
 
 ### Идентификатор:
 
@@ -4068,7 +4068,7 @@ CC1
 
 
 
-## Робот для дезинфекции Keenon Robotics Disinfection Robot M2
+## Название: Робот для дезинфекции Keenon Robotics Disinfection Robot M2
 
 ### Идентификатор:
 
@@ -4158,7 +4158,7 @@ Disinfection Robot M2
 
 
 
-## Умный робот-гид Keenon Robotics Guiderbot G2
+## Название: Умный робот-гид Keenon Robotics Guiderbot G2
 
 ### Идентификатор:
 
@@ -4244,7 +4244,7 @@ Guiderbot G2
 
 
 
-## Умный робот-доставщик Keenon Robotics Butlerbot W3
+## Название: Умный робот-доставщик Keenon Robotics Butlerbot W3
 
 ### Идентификатор:
 
@@ -4334,7 +4334,7 @@ Butlerbot W3
 
 
 
-## Умный робот-доставщик Keenon Robotics Dinerbot-T5
+## Название: Умный робот-доставщик Keenon Robotics Dinerbot-T5
 
 ### Идентификатор:
 
@@ -4436,7 +4436,7 @@ Dinerbot-T5
 
 
 
-## Умный робот-доставщик Pudu Robotics FlashBot
+## Название: Умный робот-доставщик Pudu Robotics FlashBot
 
 ### Идентификатор:
 
@@ -4522,7 +4522,7 @@ FlashBot
 
 
 
-## Умный робот-доставщик Keenon Robotics Dinerbot-T8
+## Название: Умный робот-доставщик Keenon Robotics Dinerbot-T8
 
 ### Идентификатор:
 
@@ -4604,7 +4604,7 @@ Dinerbot-T8
 
 
 
-## Интеллектуальный робот-доставщик Pudu Robotics KettyBot
+## Название: Интеллектуальный робот-доставщик Pudu Robotics KettyBot
 
 ### Идентификатор:
 
@@ -4682,7 +4682,7 @@ KettyBot
 
 
 
-## Робот-официант Pudu Robotics BellaBot 4 подноса
+## Название: Робот-официант Pudu Robotics BellaBot 4 подноса
 
 ### Идентификатор:
 
@@ -4760,7 +4760,7 @@ BellaBot 4 подноса
 
 
 
-## Робот-официант Pudu Robotics BellaBot 3 подноса
+## Название: Робот-официант Pudu Robotics BellaBot 3 подноса
 
 ### Идентификатор:
 
@@ -4834,7 +4834,7 @@ BellaBot 3 подноса
 
 
 
-## Лидар SLAMTEC Unitree 2D Lidar Single
+## Название: Лидар SLAMTEC Unitree 2D Lidar Single
 
 ### Идентификатор:
 
@@ -4912,7 +4912,7 @@ B1, B-W, Go1 Edu, AlienGo
 
 
 
-## Захват Unitree Robotics Z1-Gripper
+## Название: Захват Unitree Robotics Z1-Gripper
 
 ### Идентификатор:
 
@@ -4986,7 +4986,7 @@ Arm Z1
 
 
 
-## Подушечки лап Unitree Robotics B1 Foot Pad
+## Название: Подушечки лап Unitree Robotics B1 Foot Pad
 
 ### Идентификатор:
 
@@ -5040,7 +5040,7 @@ B1
 
 
 
-## Зарядное устройство Unitree Robotics B1
+## Название: Зарядное устройство Unitree Robotics B1
 
 ### Идентификатор:
 
@@ -5106,7 +5106,7 @@ B1, B-W
 
 
 
-## Аккумулятор Unitree Robotics B1
+## Название: Аккумулятор Unitree Robotics B1
 
 ### Идентификатор:
 
@@ -5168,7 +5168,7 @@ B1, B-W
 
 
 
-## Лидар Unitree Robotics 4D LiDAR L1 RM
+## Название: Лидар Unitree Robotics 4D LiDAR L1 RM
 
 ### Идентификатор:
 
@@ -5254,7 +5254,7 @@ TTL UART
 
 
 
-## Лидар Unitree Robotics 4D LiDAR L1 PM
+## Название: Лидар Unitree Robotics 4D LiDAR L1 PM
 
 ### Идентификатор:
 
@@ -5340,7 +5340,7 @@ TTL UART
 
 
 
-## Манипулятор Unitree Robotics Arm Z1 Pro
+## Название: Манипулятор Unitree Robotics Arm Z1 Pro
 
 ### Идентификатор:
 
@@ -5410,7 +5410,7 @@ AlienGo, B1
 
 
 
-## Манипулятор Unitree Robotics Arm Z1 Air
+## Название: Манипулятор Unitree Robotics Arm Z1 Air
 
 ### Идентификатор:
 
@@ -5480,7 +5480,7 @@ AlienGo, B1
 
 
 
-## Стопа Unitree Robotics H1
+## Название: Стопа Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5538,7 +5538,7 @@ H1
 
 
 
-## Кисть Unitree Robotics H1
+## Название: Кисть Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5596,7 +5596,7 @@ H1
 
 
 
-## Консоль Unitree Robotics H1
+## Название: Консоль Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5650,7 +5650,7 @@ H1
 
 
 
-## Зарядное устройство Unitree Robotics H1
+## Название: Зарядное устройство Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5720,7 +5720,7 @@ H1
 
 
 
-## Аккумулятор Unitree Robotics H1
+## Название: Аккумулятор Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5782,7 +5782,7 @@ H1
 
 
 
-## Пульт Unitree Robotics H1
+## Название: Пульт Unitree Robotics H1
 
 ### Идентификатор:
 
@@ -5860,7 +5860,7 @@ Go2
 
 
 
-## Консоль Unitree Robotics Protective Bracket
+## Название: Консоль Unitree Robotics Protective Bracket
 
 ### Идентификатор:
 
@@ -5914,7 +5914,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Модуль расширения Unitree Robotics Go2 (100Tops)
+## Название: Модуль расширения Unitree Robotics Go2 (100Tops)
 
 ### Идентификатор:
 
@@ -5984,7 +5984,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Модуль расширения Unitree Robotics Go2 (40Tops)
+## Название: Модуль расширения Unitree Robotics Go2 (40Tops)
 
 ### Идентификатор:
 
@@ -6054,7 +6054,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Комплект лап с сенсорами Unitree Robotics Go2
+## Название: Комплект лап с сенсорами Unitree Robotics Go2
 
 ### Идентификатор:
 
@@ -6112,7 +6112,7 @@ Go2
 
 
 
-## Зарядная станция Unitree Robotics Go2
+## Название: Зарядная станция Unitree Robotics Go2
 
 ### Идентификатор:
 
@@ -6178,7 +6178,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Зарядное устройство Unitree Robotics Go2
+## Название: Зарядное устройство Unitree Robotics Go2
 
 ### Идентификатор:
 
@@ -6252,7 +6252,7 @@ Go2
 
 
 
-## Аккумулятор Unitree Robotics Go2 (Long Life)
+## Название: Аккумулятор Unitree Robotics Go2 (Long Life)
 
 ### Идентификатор:
 
@@ -6314,7 +6314,7 @@ Go2
 
 
 
-## Аккумулятор Unitree Robotics Go2 (Standard)
+## Название: Аккумулятор Unitree Robotics Go2 (Standard)
 
 ### Идентификатор:
 
@@ -6376,7 +6376,7 @@ Go2
 
 
 
-## Пульт Unitree Robotics Handheld
+## Название: Пульт Unitree Robotics Handheld
 
 ### Идентификатор:
 
@@ -6454,7 +6454,7 @@ Go2
 
 
 
-## Рука-сервопривод Unitree Robotics D1
+## Название: Рука-сервопривод Unitree Robotics D1
 
 ### Идентификатор:
 
@@ -6520,7 +6520,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Пульт Unitree Robotics With Screen + (Dual Camera, Megaphone, Searchlight, Strobe)
+## Название: Пульт Unitree Robotics With Screen + (Dual Camera, Megaphone, Searchlight, Strobe)
 
 ### Идентификатор:
 
@@ -6610,7 +6610,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Пульт Unitree Robotics With Screen + (Dual Camera)
+## Название: Пульт Unitree Robotics With Screen + (Dual Camera)
 
 ### Идентификатор:
 
@@ -6700,7 +6700,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Камера глубины Intel Unitree RealSense D435i
+## Название: Камера глубины Intel Unitree RealSense D435i
 
 ### Идентификатор:
 
@@ -6778,7 +6778,7 @@ Go2 Ent, Go2 Edu
 
 
 
-## Лидар Hesai Unitree 3D LIDAR XT16
+## Название: Лидар Hesai Unitree 3D LIDAR XT16
 
 ### Идентификатор:
 
@@ -6856,7 +6856,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Лидар LIVOX Unitree 3D LIDAR MID360
+## Название: Лидар LIVOX Unitree 3D LIDAR MID360
 
 ### Идентификатор:
 
@@ -6934,7 +6934,7 @@ Go2 EDU, Go2 Ent
 
 
 
-## Док-станция PUDU CC1
+## Название: Док-станция PUDU CC1
 
 ### Идентификатор:
 
@@ -7012,7 +7012,7 @@ CC1
 
 
 
-## Модуль Litebee Obstacle Avoiding | Wing
+## Название: Модуль Litebee Obstacle Avoiding | Wing
 
 ### Идентификатор:
 
@@ -7074,7 +7074,7 @@ Obstacle Avoiding kit
 
 
 
-## Мультизарядное устройство Litebee S20
+## Название: Мультизарядное устройство Litebee S20
 
 ### Идентификатор:
 
@@ -7156,7 +7156,7 @@ S20 multi charger for 4 batteries
 
 
 
-## Комплект Litebee Electromagnet Delivery | Wing
+## Название: Комплект Litebee Electromagnet Delivery | Wing
 
 ### Идентификатор:
 
@@ -7210,7 +7210,7 @@ Elecromagnet delivery kit
 
 
 
-## Комплект Litebee Car Extension Kit | Brix III
+## Название: Комплект Litebee Car Extension Kit | Brix III
 
 ### Идентификатор:
 
@@ -7268,7 +7268,7 @@ USB-C
 
 
 
-## Комплект Makeblock Easy-Play Electronic Programming Maker's
+## Название: Комплект Makeblock Easy-Play Electronic Programming Maker's
 
 ### Идентификатор:
 
@@ -7318,7 +7318,7 @@ Easy-Play Electronic Programming Maker's Kit For Kids
 
 
 
-## Комплект Makeblock HaloCode/CyberPi Creator Add-on
+## Название: Комплект Makeblock HaloCode/CyberPi Creator Add-on
 
 ### Идентификатор:
 
@@ -7368,7 +7368,7 @@ HaloCode/CyberPi Creator Add-on Pack
 
 
 
-## Комплект лазерного меча Makeblock | mBot Ranger
+## Название: Комплект лазерного меча Makeblock | mBot Ranger
 
 ### Идентификатор:
 
@@ -7422,7 +7422,7 @@ Laser Sword
 
 
 
-## Аккумулятор Makeblock Rechargeable Li-polymer | mBot
+## Название: Аккумулятор Makeblock Rechargeable Li-polymer | mBot
 
 ### Идентификатор:
 
