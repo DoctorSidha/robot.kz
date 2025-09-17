@@ -5694,10 +5694,6 @@ pudu-robotics
 
 Пейджер PUDU PPCC01x1
 
-#### Предзаказ:
-
-Да
-
 #### Совместимость:
 
 Bellabot Pro, Pudubot, PUDU T300, PUDU Holabot, Bellabot
@@ -5771,10 +5767,6 @@ pudu-robotics
 #### Комплектация:
 
 Часы Pudu Robotics 4G с NFC ×1
-
-#### Предзаказ:
-
-Да
 
 #### Размеры (Ш×В×Г), cm:
 
