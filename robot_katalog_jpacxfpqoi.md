@@ -20,6 +20,10 @@ https://robot.kz/product/3d-printer-creality-k1/
 
 creality
 
+#### Тип:
+
+Печать
+
 #### Артикул:
 
 Creality K1
